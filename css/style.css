@@ -128,3 +128,13 @@ margin-bottom: 30px;
 div ~ div{
     margin-bottom: 30px;
 }
+.calc{
+    
+    text-align: center;
+}
+.IMT{
+    position: relative;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
